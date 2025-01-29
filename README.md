@@ -41,3 +41,6 @@ https://api.exchangerate-api.com/v4/latest/INR
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+Siddharth Katyal
